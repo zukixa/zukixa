@@ -1,7 +1,7 @@
 ### 👋
-am woman
-insane
-i code dumb things
+am woman,
+insane,
+i code dumb things,
 👍
 <!--
 **zukixa/zukixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
