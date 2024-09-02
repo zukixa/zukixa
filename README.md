@@ -8,7 +8,7 @@ i love building tools and resources that make others chaotic with technology too
 
 ### **ai adventures:**
 
-- **zukijourney:** leading the charge on the largest discord ai api platform! [api docs](https://github.com/zukijourney/api-docs), [bot docs](https://github.com/zukijourney/bots-docs) (including zuki.gm, the (only, and largest!) ai game master bot on discord! 🤖)
+- **zukijourney:** leading the charge on the largest discord ai api platform! [api docs](https://github.com/zukijourney/api-docs), [bot docs](https://docs.zukijourney.com/bots) (including zuki.gm, the (only, and largest!) ai game master bot on discord! 🤖)
 - **cool-ai-stuff:** your ultimate guide to free ai apis, because who doesn't love free stuff? 😉 [explore the repository](https://github.com/zukixa/cool-ai-stuff)
 
 ### **making test-driven development (tdd) accessible:**
